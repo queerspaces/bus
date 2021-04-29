@@ -1,0 +1,149 @@
+body {
+
+font-family: Verdana, Arial, Helvetica;
+color: #ebd086;
+
+width: 4000px;
+height: 1000px;
+
+background-image:
+
+url('https://i.imgur.com/3CMHvk9.gif'),
+url('https://i.imgur.com/zfdzNFi.gif'),
+url('https://i.imgur.com/qoDoTFH.gif'),
+
+url('https://i.imgur.com/0jKgcbq.gif'),
+url('https://i.imgur.com/IYqmaFq.gif'),
+url('https://i.imgur.com/O2pMF9b.gif'),
+
+url('https://i.imgur.com/deqrvBb.jpg'),
+url('https://i.imgur.com/bntjefT.jpg'),
+url('https://i.imgur.com/u7HrK6d.jpg'),
+url('https://i.imgur.com/BdwkgJF.jpg'),
+url('https://i.imgur.com/ydFzR2H.jpg'),
+url('https://i.imgur.com/53BlQPa.jpg'),
+url('https://i.imgur.com/dztKQQf.jpg'),
+url('https://i.imgur.com/S8xcuvn.jpg'),
+url('https://i.imgur.com/oAs6O4b.jpg?1');
+
+background-repeat: no-repeat;
+
+background-attachment: scroll;
+
+background-position:
+3200px 700px,
+700px 60px,
+1600px 300px,
+
+500px 300px,
+2500px 400px,
+1500px 700px,
+
+3800px 100px,
+3600px 600px,
+2400px 100px,
+2100px 700px,
+150px 0px,
+3000px 50px,
+2000px 50px,
+1000px 50px,
+0px 0px;
+
+background-size:
+350px 350px,
+200px 200px,
+300px 300px,
+
+auto,
+auto,
+auto,
+
+200px 350px,
+300px 550px,
+250px 400px,
+450px 270px,
+250px 450px,
+513px 342px,
+343px 515px,
+503px 335px,
+4000px 1200px;
+
+}
+
+#text1{
+  position: absolute;
+  bottom: 10px;
+  right: -100px;
+  font-size: 50px;
+  width: 400px;
+  -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+#text2{
+  position: absolute;
+  bottom: 370px;
+  right: 600px;
+  font-size: 30px;
+  width: 400px;
+  -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+#text3{
+  position: absolute;
+  bottom: 570px;
+  right: -400px;
+  font-size: 30px;
+  width: 400px;
+  -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+#text4{
+  position: absolute;
+  bottom: -270px;
+  right: -1400px;
+  font-size: 30px;
+  width: 400px;
+  -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+  }
+
+  #text5{
+    position: absolute;
+    bottom: 200px;
+    right: -2000px;
+    font-size: 30px;
+    width: 400px;
+    -webkit-text-stroke-width: 1px;
+      -webkit-text-stroke-color: black;
+    }
+
+    #text6{
+      position: absolute;
+      bottom: -200px;
+      right: 900px;
+      font-size: 30px;
+      width: 400px;
+      -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: black;
+      }
+
+  #text7{
+    position: absolute;
+    bottom: 350px;
+    right: -2450px;
+    font-size: 30px;
+    width: 400px;
+    background-color: #eff29d;
+  }
+
+#text8{
+  position: absolute;
+  bottom: -200px;
+  right: -2400px;
+  font-size: 30px;
+  width: 400px;
+  background-color: #eff29d;
+}
